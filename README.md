@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=C&logoColor=white" />
 </div>
 
 ---
